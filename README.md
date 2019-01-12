@@ -8,7 +8,7 @@ The content is written in [Markdown][markdown] and rendered to static HTML using
 
   1. [Fork][github_fork] this [repo][website_repo] to your GitHub account.
   1. [Clone][github_clone] to your local system and make content changes (see note on `git submodules` below)
-  1. Run a local copy of [Hugo][hugo_site] to verify your changes.
+  1. Run [Hugo][hugo_site] on your local system to verify your changes.
   1. Commit changes to your fork and open a [pull request][github_pr].
 
 > Please note this repository make use of [git submodules][git_submodules] which requires an extra flag `--recurse-submodules` to fetch when cloning.
